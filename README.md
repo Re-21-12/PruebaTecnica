@@ -1,4 +1,4 @@
-En el presente proyecto se utilizo POSTMAN para las pruebas en la API, ademas se solicita usar OAuth o JWT en este caso se utilizo JWT por medio de un usuario predefinido para poder acceder a servicios con el uso de formularios, opciones como llenar encuesta no solicitan el uso de este usuario
+<justify> En el presente proyecto se utilizo POSTMAN para las pruebas en la API, ademas se solicita usar OAuth o JWT en este caso se utilizo JWT por medio de un usuario predefinido para poder acceder a servicios con el uso de formularios, opciones como llenar encuesta no solicitan el uso de este usuario, se trabajo en una base de datos relacional SQL SERVER conjuntamente con el lenguaje de C# Asp.Net  </justify>
 
 <h1>Collection en POSTMAN</h1>
 
